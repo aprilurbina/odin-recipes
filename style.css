@@ -20,14 +20,14 @@ header {
     color: black;
     padding: 1rem;
 }
-
+/* 1rem = 16px */
 main {
     padding: 1rem;
 }
 
 footer {
     text-align: center;
-    padding: 1rem;
+    padding: 16px;
     background: violet;
     color: black;
 }
@@ -35,7 +35,8 @@ footer {
 /* Text and Links */
 
 h1 {
-    margin-bottom: 0.5rem;
+    margin-bottom: 48px;
+    text-align: center;
 }
 
 /* Utility classes */
