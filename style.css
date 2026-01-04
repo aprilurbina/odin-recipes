@@ -35,9 +35,9 @@ footer {
 /* Text and Links */
 
 .btn-home {
-    padding: 8px 16px;
-    background: violet;
-    color: blue;
+    padding: 16px;
+    background: whitesmoke;
+    color: black;
     border-radius: 5px ;
 }
 
