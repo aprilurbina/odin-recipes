@@ -35,10 +35,13 @@ footer {
 /* Text and Links */
 
 .btn-home {
-    padding: 16px;
-    background: whitesmoke;
-    color: black;
-    border-radius: 5px ;
+    padding: 16px; /* space inside the button */
+    background: rosybrown; /* button color */
+    color: rebeccapurple; /* text color */
+    text-decoration: none; /* remove underline from links */
+    border: 2px solid black; /* black border */
+    border-radius: 5px; /* optional rounded corners */ 
+    display: inline-block; /* ensures padding and border work correctly */
 }
 
 h1 {
