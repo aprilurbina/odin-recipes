@@ -45,6 +45,11 @@ h3 {
     text-align: center;
 }
 
+p {
+    margin: 16px;
+    text-align: center;
+}
+
 ul {
     width: fit-content;
     margin: 0 auto;
