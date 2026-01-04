@@ -1,0 +1,41 @@
+/* Reset/Base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Page body */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: normal;
+    background-color: lavender;
+    color: black;
+}
+
+/* Layout */
+
+header {
+    background: yellow;
+    color: black;
+    padding: 1rem;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: violet;
+    color: black;
+}
+
+/* Text and Links */
+
+h1 {
+    margin-bottom: 0.5rem;
+}
+
+/* Utility classes */
